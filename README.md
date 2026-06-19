@@ -60,3 +60,4 @@ The following general guidance is applied to this content.
 4.  Move almost all of the side remarks, insights into culture, memes, etc. into the separate document on being effective, while still trying to capture the intent where needed.  It’s not that they’re without value, it’s just that they have a time and a place where they are most effective, and that is when someone is thinking about how they participate, not when they are learning the facts of how things work.
 
 5.  Limit the number of external references.  There’s a balance between referencing sources and providing additional information, and distracting people from the current document. 
+Created by Jason Scott Heise
